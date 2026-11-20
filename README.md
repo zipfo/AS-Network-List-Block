@@ -5,7 +5,7 @@
 ## Запуск
 
 ```bash
-bash <(wget -O - https://raw.githubusercontent.com/archicodee/AS-Network-List-Block/refs/heads/main/asnl-block.sh)
+bash <(wget -O - https://raw.githubusercontent.com/zipfo/AS-Network-List-Block/refs/heads/main/asnl-block.sh)
 ```
 
 Меню:
